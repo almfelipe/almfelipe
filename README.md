@@ -1,4 +1,4 @@
-#Hi 👋, I'm Felipe Almeida
+Hi 👋, I'm Felipe Almeida
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=almfelipe&show_icons=true)
 
